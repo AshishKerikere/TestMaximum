@@ -1,3 +1,5 @@
-Test Case 3//Float xFloat = 8.5f, yFloat = 16.4f, zFloat = 33.3f;
+Test Case 3 // String xFloat = "C++", yFloat = "Python", zFloat = "Ruby";
 
-The Largest of the Three Float is = 33.3
+The Largest of the Three Strings is = Ruby
+
+Process finished with exit code 0
