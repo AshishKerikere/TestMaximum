@@ -1,7 +1,6 @@
-import  java.util.Scanner;
 public class MaximumTest {
-    public static Float testMaximum(Float x, Float y, Float z){
-        Float max = x;
+    public static String testMaximum(String x, String y, String z){
+        String max = x;
         if(y.compareTo(max) > 0){
             max = y;
         }
@@ -12,8 +11,8 @@ public class MaximumTest {
     }
 
     public static void main(String[] args) {
-        Float xFloat = 5.5f, yFloat = 4.4f, zFloat = 3.3f;
-        Float maximum = testMaximum(xFloat, yFloat, zFloat);
-        System.out.println("The Largest of the Three Float is = " +maximum);
+        String xFloat = "Mumbai", yFloat = "Bengaluru", zFloat = "Chennai";
+        String maximum = testMaximum(xFloat, yFloat, zFloat);
+        System.out.println("The Largest of the Three Strings is = " +maximum);
     }
 }
