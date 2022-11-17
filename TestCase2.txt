@@ -1,6 +1,11 @@
-Test Case 2//String xFloat = "Jupiter", yFloat = "Mars", zFloat = "Earth";
+Test Case 2
+/*
+        Integer xInt = 11, yInt = 12, zInt = 10;
+        Float xFloat = 15.5f, yFloat = 24.4f, zFloat = 3.3f;
+        String xStr = "Jupiter", yStr = "Mars", zStr = "Earth"; */
 
-The Largest of the Three Strings is = Mars
+The Maximum one is = 12
+The Maximum one is = 24.4
+The Maximum one is = Mars
 
 Process finished with exit code 0
-
