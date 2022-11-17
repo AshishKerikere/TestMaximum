@@ -1,5 +1,4 @@
-Test Case 2 // Integer xInt = 11, yInt = 12, zInt = 10;
+Test Case 2// Float xFloat = 15.5f, yFloat = 24.4f, zFloat = 3.3f;
 
-The Largest of the Three Integers is = 12
+The Largest of the Three Float is = 24.4
 
-Process finished with exit code 0
