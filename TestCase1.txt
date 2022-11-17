@@ -1,5 +1,10 @@
-Test Case 1// String xFloat = "Mumbai", yFloat = "Bengaluru", zFloat = "Chennai";
+Test Case 1
+/*        Integer xInt = 5, yInt = 4, zInt = 3;
+          Float xFloat = 5.5f, yFloat = 4.4f, zFloat = 3.3f;
+          String xStr = "Mumbai", yStr = "Bengaluru", zStr = "Chennai"; */
 
-The Largest of the Three Strings is = Mumbai
+The Maximum one is = 5
+The Maximum one is = 5.5
+The Maximum one is = Mumbai
 
 Process finished with exit code 0

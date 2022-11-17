@@ -1,5 +1,12 @@
-Test Case 3 // String xFloat = "C++", yFloat = "Python", zFloat = "Ruby";
+Test Case 3
+/*
 
-The Largest of the Three Strings is = Ruby
+        Integer xInt = 14, yInt = 15, zInt = 16;
+        Float xFloat = 8.5f, yFloat = 16.4f, zFloat = 33.3f;
+        String xStr = "C++", yStr = "Python", zStr = "Ruby"; */
 
-Process finished with exit code 0
+    The Maximum one is = 16
+    The Maximum one is = 33.3
+    The Maximum one is = Ruby
+
+    Process finished with exit code 0
